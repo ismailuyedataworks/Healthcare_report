@@ -1,4 +1,10 @@
-# 🏥 Healthcare Patient Performance Analysis
+# <img width="61" height="26" alt="image" src="https://github.com/user-attachments/assets/f88fc390-5f25-4b4a-a78d-87072ae8f636" /> Healthcare Patient Performance Analysis
+
+![GitHub last commit](https://img.shields.io/github/last-commit/ismailuyedataworks/healthcare_report)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ismailuyedataworks/healthcare_report)  
+![GitHub stars](https://img.shields.io/github/stars/ismailuyedataworks/healthcare_report?style=social)  
+
+---
 
 ## 📌 Project Overview  
 This project analyzes **patient performance data** across multiple U.S. hospitals (2019–2024).  
@@ -27,9 +33,15 @@ The goal is to provide executives with a **data-driven view** of patient care tr
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Microsoft Excel** – Dashboard Design, Pivot Analysis, Visualizations  
-- **Healthcare Dataset (2019–2024)** – Provided for analytical modeling  
-- **Data Storytelling** – Transforming insights into recommendations  
+- 💻 **Microsoft Excel** – Dashboard Design, Pivot Analysis, Visualizations  
+- 📂 **Healthcare Dataset (2019–2024)** – Provided for analytical modeling  
+- 📈 **Data Storytelling** – Transforming insights into recommendations  
+
+---
+
+## 🌐 Live Dashboard  
+Experience the interactive dashboard live here:
+[Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=vEYMgE)
 
 ---
 
@@ -42,6 +54,11 @@ The goal is to provide executives with a **data-driven view** of patient care tr
 - 🧪 What are the distributions of **test results** (Normal, Abnormal, Inconclusive)?  
 - 🛡️ How does patient volume break down by insurance provider?  
 - 🍂 Are there **seasonal/annual patterns** in admissions affecting resource planning?  
+
+---
+
+## 🖼️ Dashboard Preview 
+![Healthcare Patient Performance Dashboard](Dashboard_Healthcare.png)
 
 ---
 
@@ -98,9 +115,33 @@ By analyzing admissions, costs, insurance, and outcomes, hospitals can improve *
 
 ---
 
+🔗 I encourage you to explore the dashboard, test different filters, and discover how data-driven decision-making can transform business strategies.  
+
+---
+
 ## ✍️ Author  
 **Ismail Uye – Data Analyst | Biochemist | Data Enthusiast**  
 
+I’m passionate about turning raw datasets into meaningful insights 📊. With hands-on experience in **Excel**, **SQL**, and **Power BI**, I enjoy analyzing, visualizing, and storytelling with data to support smarter business decisions 🚀.  
+
+---
+
+🔗 **Let’s Connect**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/uye-ismail-d)  
+- 📧 uyedanzismuye@gmail.com  
+- 📧 uyeismaildanzismuye@gmail.com  
+
 💬 *“The goal is to turn data into information, and information into insight.”* – Carly Fiorina  
+
+---
+
+## 🙏 Closing Note  
+Thank you for taking the time to explore this project 💡.  
+I hope the insights and recommendations spark new ideas and inspire smarter decisions.  
+
+Feel free to ⭐ this repo if you found it useful, and don’t hesitate to explore my other projects for more data stories 📊✨.  
+
+I’m always open to collaboration, feedback, and knowledge-sharing; let’s connect and build something impactful together! 🤝  
+
 
 ---
