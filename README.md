@@ -41,7 +41,7 @@ The goal is to provide executives with a **data-driven view** of patient care tr
 
 ## 🌐 Live Dashboard  
 Experience the interactive dashboard live here:
-[Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=vEYMgE)
+[Click to view the live dashboard]([https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=vEYMgE](https://1drv.ms/x/c/a145471cdb65b729/EUKx2YLHWoxLl-3_dxZlG4wBpbZDstk69mxfeYkcxfG3PQ?e=FAWZkn))
 
 ---
 
